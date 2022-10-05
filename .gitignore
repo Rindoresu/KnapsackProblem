@@ -1,0 +1,5 @@
+.idea/
+CMakeList*
+cmake-build-debug/
+enunciado.pdf
+venv/
